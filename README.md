@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-![Profile views](https://img.shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.countapi.xyz/get/adharshvenkat/profile)
+[![Hits](https://komarev.com/ghpvc/?username=adharshvenkat&label=Profile%20views&color=green&style=flat-square)](https://komarev.com/ghpvc/?username=adharshvenkat)
 
 ## About Me
 I am a Robotics Software Engineer with experience in Robot Navigation, Perception, Robot Fleet Management. I've worked on building several end-to-end systems for Autonomous Mobile Robots using ROS/ROS2, Computer Vision and Point Cloud Library in C++ and Python. I'm an advocate for building scalable systems, and have worked with several DevOps tools such as Git, Docker, Jenkins & cloud infrastructure such as AWS. 
