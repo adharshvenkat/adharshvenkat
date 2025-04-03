@@ -4,7 +4,7 @@
   <a href="https://github.com/adharshvenkat">
     <img src="https://komarev.com/ghpvc/?username=adharshvenkat&label=Profile%20views&color=0e7541&style=flat-square&logo=eye&logoColor=white" alt="Profile Views"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-username/"> <!-- <--- CHANGE THIS LINK -->
+  <a href="https://www.linkedin.com/in/adharshvenkatachalam/"> <!-- <--- CHANGE THIS LINK -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <!-- Add other relevant links like portfolio or Twitter here -->
