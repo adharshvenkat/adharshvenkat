@@ -12,8 +12,9 @@
 
 
 ## About Me
-Robotics Software Engineer with 4+ years of experience architecting and deploying end-to-end autonomous navigation and fleet management systems for AMRs. Proven expertise in leading the full development lifecycle from ideation to deployment on cloud
-platforms like AWS. Specializes in ROS/ROS2, C++, Python, and complex system integration, with a track record of enhancing robot performance, reliability, and operational efficiency in real-world environments.
+- Robotics Software Engineer with 4+ years of experience architecting and deploying end-to-end autonomous navigation and fleet management systems for AMRs. 
+- Proven expertise in leading the full development lifecycle from ideation to deployment on cloud platforms like AWS. 
+- Specializes in ROS/ROS2, C++, Python, and complex system integration, with a track record of enhancing robot performance, reliability, and operational efficiency in real-world environments.
 
 
 ## 🔧 Technologies & Tools
