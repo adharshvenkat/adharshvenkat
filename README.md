@@ -12,11 +12,8 @@
 
 
 ## About Me
-Robotics Software Engineer with a strong track record in building and deploying sophisticated end-to-end systems for Autonomous Mobile Robots. My core technical command spans Navigation, Control, Perception, and developing scalable Fleet Management solutions.
-
-I leverage my extensive experience with ROS/ROS2, advanced Computer Vision techniques, Point Cloud Library, and Robot Middleware Framework to create intelligent and robust robotic capabilities. A key focus of my work is advocating for and building scalable architectures, utilizing modern DevOps practices including Git, Docker, and Jenkins, paired with practical experience in cloud infrastructure such as AWS.
-
-Passionate about the transformative potential of technology, I am dedicated to integrating Machine Learning and Distributed Computing to revolutionize industries. My personal projects in ML/AI, ranging from Computer Vision to Natural Language Processing, demonstrate hands-on experience with a diverse toolkit including Scikit-Learn, Tensorflow, PyTorch, NLTK, and HuggingFace.
+Robotics Software Engineer with 4+ years of experience architecting and deploying end-to-end autonomous navigation and fleet management systems for AMRs. Proven expertise in leading the full development lifecycle from ideation to deployment on cloud
+platforms like AWS. Specializes in ROS/ROS2, C++, Python, and complex system integration, with a track record of enhancing robot performance, reliability, and operational efficiency in real-world environments.
 
 
 ## 🔧 Technologies & Tools
